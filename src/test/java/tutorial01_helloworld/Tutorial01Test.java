@@ -8,7 +8,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Tutorial01 {
+public class Tutorial01Test {
 
 	private static WebDriver firefox;
 
