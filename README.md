@@ -5,3 +5,8 @@
 
 #####Tutorial02Test:
 - Locate web elements by id, className, name, linkText, & XPath.
+
+#####Tutorial03Test:
+- Locate web elements by css selectors.
+- id, class, attributes, id + attributes, class + attributes, attribute substring
+
