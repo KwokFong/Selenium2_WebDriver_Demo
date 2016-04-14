@@ -11,6 +11,9 @@
 - id, class, attributes, id + attributes, class + attributes, attribute substring
 
 #####Tutorial04Test:
-- set and get value from dropdown web element.
+- Set and get value from dropdown web element.
+
+#####Tutorial05Test:
+- Check visibility of Web Elements
 
 
