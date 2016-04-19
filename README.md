@@ -14,6 +14,9 @@
 - Set and get value from dropdown web element.
 
 #####Tutorial05Test:
-- Check visibility of Web Elements
+- Check visibility of Web Elements.
+
+#####Tutorial06Test:
+- Explicit wait examples.
 
 
